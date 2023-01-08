@@ -1,4 +1,16 @@
-### Hi there 👋
+<h3 align="center"><samp>Hello👋! I am <b>Kai Jie Lee</b></samp></h3>
+<p align="center"><br>
+  <samp>
+    Computing Science student in the University of Alberta
+  </samp>
+</p>
+
+
+
+
+
+
+
 
 <!--
 **lkaijie/lkaijie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
